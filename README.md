@@ -9,6 +9,8 @@
 * 程序core dump的典型场景及排查流程;
 
 #### daily study
+@2022-09-03 
 
 * .cpp 文件和class定义的关系. 
 * auto 的用法 
+* & 和 * 的用法
